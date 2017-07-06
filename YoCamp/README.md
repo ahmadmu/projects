@@ -8,4 +8,4 @@ Run `npm install` to install all dependencies needed for the project.
 
 - Development server
 
-Navigate to folder and then run `npm node.js` for a dev server, then navigate to `http://localhost:3000/`.
+Navigate to folder and then run `npm node.js` for a dev server, then navigate in the browser to `http://localhost:3000/`.
