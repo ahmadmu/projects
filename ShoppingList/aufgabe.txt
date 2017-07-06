@@ -1,0 +1,7 @@
+features: recipe book, shopping list
+comps: AppComponent, HeaderComponent,
+      Shoppinglist, sledit, 
+      Recipe List, Recipe Item, Recipe Detail, RecipesList
+Model: Ingredient, Recipe
+Services: RecipeBook, Shopping List
+Directives: appDropdown

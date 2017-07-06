@@ -1,0 +1,13 @@
+<div class="row">
+  <div class="col-xs-10">
+    <app-shopping-list-edit></app-shopping-list-edit>
+    <hr>
+    <input type="text" class="form-control" placeholder="Search" [(ngModel)]="search">
+    <ul class="list-group">
+      <a class="list-group-item" *ngFor="let ing of ingredients | filter : search : name; let i = index "
+      (click)="onEditItem(i)">
+        {{ ing.name }} ({{ ing.amount }})
+      </a>
+    </ul>
+  </div>
+</div>
