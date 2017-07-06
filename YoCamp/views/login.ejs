@@ -1,0 +1,15 @@
+<% include ./partials/header %>
+
+<div class="container">
+  <div class="alert alert-danger" role="alert"><%= error %></h1>
+</div>
+
+<h1>Login</h1>
+
+<form action="/login" method="post">
+  <input type="text" name="username" placeholder="username">
+  <input type="text" name="password" placeholder="password">
+  <input type="submit" value="login">
+</form>
+
+<% include ./partials/footer %>
