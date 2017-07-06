@@ -1,10 +1,10 @@
 # ShoppingList
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.2.
+This project was made as a review exercise for Maximillian Schwarzmueller's Udemy course "Angular 4 - The Complete Guide". It was built with the Angular 4 Framework in addition to the Bootstrap library.
 
 ## Install Dependencies
 
-run `ng install` to install all dependencies needed for the project. 
+run `npm install` to install all dependencies needed for the project. 
 
 ## Development server
 
