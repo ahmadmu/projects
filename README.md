@@ -1,4 +1,5 @@
-Welcome to my Github repository, projects here are mainly JavaScript projects made using Angular and the MEAN Stack, and they're projects I made and I know I can share publicly. 
+## Welcome to my Github repository, 
+projects here are mainly JavaScript projects made using Angular and the MEAN Stack, and they're projects I made and I know I can share publicly. 
 
 I've also worked on other JavaScript and Java (Spring) projects that I can share privately if need be for proving knowledge in other languages for example.
 
