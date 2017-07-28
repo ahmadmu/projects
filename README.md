@@ -5,6 +5,7 @@ I've also worked on other JavaScript and Java (Spring) projects that I can share
 
 ## My Programming Knowledge/Experience:
 
+bold is for languages I'm comfortable and have enough knowledge to program with 
 - C :   
 
 Robot Programming (API-usage, getting comfortable with basic programming) 
@@ -13,25 +14,23 @@ Robot Programming (API-usage, getting comfortable with basic programming)
 
 Algorithm implementations (Dijkstra, DDA, Bresenham), OpenGL func implementation   
 
-- Java  :   
+- **Java**  :   
 
 WebApp using Spring (SalesPoint Framework+ git, scrum, and OOD Design w/ UML) 
 
-- Javascript:    
+- **Javascript** (ES6):    
 
-jQuery, Angular, Node.js, Express, MongoDB 
+jQuery, Angular(+ TypeScript), Node.js, Express, MongoDB 
 
-- Typescript: 
+In addition to: 
 
-with Angular 
-
-- HTML5 : 
+- *HTML5* : 
 
 ejs scripts, thymeleaf scripts, jade 
 
-- CSS3: 
+- *CSS3*: 
 
-scss, bootstrap 
+scss, bootstrap
 
 Also familiar with: php, relational databases/sql, hybrid web app dev (Ionic), wordpress
 
