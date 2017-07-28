@@ -1,0 +1,42 @@
+// $bg-color: #607D8B;
+// $active-color: #8EACBB;
+$font-color: white;
+
+
+nav {
+    padding-bottom: 40px;
+    .navbar {
+        .navbar-brand{
+            cursor: pointer; 
+            outline: none;
+
+        }
+    }
+    
+    ul.nav.nav-pills.nav-justified {
+        li.nav-item {
+            a.nav-link{
+                border-radius: 0;
+            }
+        }
+        li.nav-link {
+            cursor: pointer;
+        }
+        .active {
+            border-radius: 0;
+            opacity: 0.8;
+        }
+    }
+}
+
+a {
+    font-family: 'Advent Pro', sans-serif;
+    font-size: 18px;
+    color: $font-color;
+}
+
+#brand {
+    font-family: 'Bubblegum Sans', cursive;
+    font-size: 50px;
+    color: $font-color;
+}

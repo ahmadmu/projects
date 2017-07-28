@@ -1,0 +1,13 @@
+<nav>
+  <div class="navbar" [ngStyle]="{backgroundColor: getColor()}">
+    <div class="navbar-brand text-center" routerLink="/" (click)="onClickStart()">
+      <span id="brand">Burogi</span>
+    </div>
+  </div>
+  <ul class="nav nav-pills nav-justified white" id="navigation">
+    <!-- routerLinkActive="active colors" routerLink="" -->
+    <li class="nav-item" *ngFor="let navi of nav">
+      <a class="nav-link" routerLinkActive="active" [routerLink]="navi.link" (click)="onClick($event)" [ngStyle]="{backgroundColor: getColor()}">{{ navi.name }}</a>
+    </li>
+  </ul>
+</nav>

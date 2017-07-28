@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Bubblegum+Sans');
+@import url('https://fonts.googleapis.com/css?family=Advent+Pro');
+
+html body {
+    font-family: 'Advent Pro', sans-serif !important;
+    .btn {
+        margin-bottom: 10px;
+        outline: none;
+        font-family: 'Advent Pro', sans-serif !important;
+        cursor: pointer;
+    }
+    a.btn {
+       cursor: pointer;
+    }
+}

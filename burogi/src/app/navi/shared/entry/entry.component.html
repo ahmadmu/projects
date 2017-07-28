@@ -1,0 +1,17 @@
+<a class="btn btn-block text-success" (click)="onAdd()">Add Entry</a>
+
+<app-entry-edit *ngIf="editMode" (entryCreated)="changeEdit()"></app-entry-edit>
+<div *ngIf="!editMode" class="text-center"  > 
+  <div *ngFor="let item of list; let i = index">
+    <h1>{{ item.title }}</h1>
+    <img [src]="item.image" alt="" class="img-responsive" >
+    <div class="caption">
+      <p>{{ item.desc }}</p>
+    </div>
+    <div>
+    <a class="btn text-primary" (click)="onEdit(i)">Edit</a>
+    <a class="btn text-danger" (click)="onDelete(i)">delete</a>
+    </div>
+  </div>
+  <hr width="50%">
+</div>

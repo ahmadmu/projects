@@ -1,0 +1,19 @@
+<div class="text-center">
+  <h1>Favorites:</h1>
+  <a class="btn btn-block text-success">Add New Favorite</a>
+  <div *ngFor="let fav of list; let i = index">
+    <img [src]="fav.image" class="img-responsive img-thumbnail">
+    <p>{{ fav.name }} - {{ fav.author }}</p>
+    <a class="btn text-danger" (click)="onDelete(i)">delete</a>
+    <!-- <div>
+      <img src="http://i.imgur.com/LHNSRUX.jpg" alt="" class="img-responsive img-thumbnail">
+      <p>Dance Dance Dance - Haruki Murakami</p>
+      <a class="btn text-danger">delete</a>
+    </div>
+    <div>
+      <img src="http://i.imgur.com/GVA7O6P.jpg" alt="" class="img-responsive img-thumbnail">
+      <p>Wind-up Bird Chronicles - Haruki Murakami</p>
+    </div> -->
+
+  </div>
+</div>
