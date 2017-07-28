@@ -20,7 +20,7 @@ WebApp using Spring (SalesPoint Framework+ git, scrum, and OOD Design w/ UML)
 
 - **Javascript** (ES6):    
 
-jQuery, Angular(+ TypeScript), Node.js, Express, MongoDB 
+jQuery, Angular(+ TypeScript), Node.js, Express, MongoDB + other npm packages
 
 In addition to: 
 
