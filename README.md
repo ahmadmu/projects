@@ -46,4 +46,4 @@ Node.js, Express.js, MongoDB Project, made as a review exercise for Colt Steele'
 
 - burogi
 
-Currently Angular project as of July2017, planning to connect it to a node.js backend in August2017.
+Currently Angular project as of July2017, planning to finish it and connect it to a node.js backend in August2017.
