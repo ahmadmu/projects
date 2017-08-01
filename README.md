@@ -3,7 +3,7 @@ projects here are mainly JavaScript projects made using Angular and the MEAN Sta
 
 Since 2014 I've been studying Computer Science with the focus on programming, and since March of 2017 I've been learning Javascript and diving deep into it, and I'm looking forward to learning more and more about the language and potentially dive into other related fields like Hybrid Application Development.
 
-I'm currently working as a translator/publisher semi-voluntarily for an amazing startup with great people called Afeefa.de, and through my work there I've learned a lot about working in a team full of great web-developers, and mainly how to work towards something you want to do rather than something you have to do. However, I'm currently looking alongside that for a job as a junior developer, either as internship, or with a small group of people looking to build something, mainly to gather experience and meet and learn together.
+I'm currently working as a translator/publisher semi-voluntarily for an amazing startup with great people called [Afeefa.de](https://about.afeefa.de/team/), and through my work there I've learned a lot about working in a team full of great web-developers, and mainly how to work towards something you want to do rather than something you have to do. However, I'm currently looking alongside that for a job as a junior developer, either as internship, or with a small group of people looking to build something, mainly to gather experience and meet and learn together.
 
 ## My Programming Knowledge/Experience:
 
