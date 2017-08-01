@@ -11,8 +11,7 @@ bold is for languages I'm comfortable and have enough knowledge to program with
 
 - C & C++:   
 
-Robot Programming (API-usage, getting comfortable with basic programming)
-Algorithm implementations 
+API-usage, getting comfortable with basic programming, Algorithm implementations 
 
 - **Java**  :   
 
@@ -20,7 +19,7 @@ WebApp using Spring (SalesPoint Framework+ git, scrum, and OOD Design w/ UML)
 
 - **Javascript** (ES6):    
 
-jQuery, Angular(+ TypeScript), Node.js, Express, MongoDB + other npm packages
+jQuery, Angular(+TypeScript), Node.js, Express, MongoDB + other npm packages
 
 In addition to: 
 
@@ -46,4 +45,4 @@ Node.js, Express.js, MongoDB Project, made as a review exercise for Colt Steele'
 
 - burogi
 
-Currently Angular project as of July2017, planning to finish it and connect it to a node.js backend in August2017.
+Currently incomplete Angular project as of July2017, planning to hopefullz finish it and connect it to a node.js backend in August2017.
