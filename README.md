@@ -5,6 +5,9 @@ Since 2014 I've been studying Computer Science with the focus on programming, an
 
 I'm currently working as a translator/publisher semi-voluntarily for an amazing startup with great people called [Afeefa.de](https://afeefa.de/), and through my work there I've learned a lot about working in a team full of great web-developers, and mainly how to work towards something you want to do rather than something you have to do. However, I'm currently looking alongside that for a job as a junior developer, either as internship, or with a small group of people looking to build something, mainly to gather experience and meet and learn together.
 
+You can also find an online version of the projects in this repo in my showcase:
+https://ahmadmu.github.io/
+
 ## My Programming Knowledge/Experience:
 
 bold is for languages I'm comfortable and have enough knowledge to program with 
