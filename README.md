@@ -1,51 +1,37 @@
 ## Welcome to my Github repository, 
-projects here are mainly JavaScript projects made using Angular and the MEAN Stack as a preparation to get into the work market (or to just build some cool SPA projects. SPA is awesome). I've also worked on other, mainly university, projects that covered algorithms, design patterns, and ood design with UML git and Java (Spring), projects I'm not sure I can upload on a public profile like this repo.
-
-Since 2014 I've been studying Computer Science with the focus on programming, and since March of 2017 I've been learning Javascript and diving deep into it, and I'm looking forward to learning more and more about the language and potentially dive into other related fields like Hybrid Application Development.
-
-I'm currently working as a translator/publisher semi-voluntarily for an amazing startup with great people called [Afeefa.de](https://afeefa.de/), and through my work there I've learned a lot about working in a team full of great web-developers, and mainly how to work towards something you want to do rather than something you have to do. However, I'm currently looking alongside that for a job as a junior developer, either as internship, or with a small group of people looking to build something, mainly to gather experience and meet and learn together.
-
-You can also find an online version of the projects in this repo in my showcase:
+projects here are mainly JavaScript projects made using Angular and the MEAN Stack. The online version of these and and other static websites I made can be found in my showcase:
 https://ahmadmu.github.io/
 
-## My Programming Knowledge/Experience:
+A bit about me:
+A Computer Science bachelor student who enjoys making things look great and function properly. Began making static websites, among other things, when I was 13 years old, but didn't start learning Javascript until 2014 at the beginning of my bachelor, and intensively getting into JS at the beginning of 2017 when I learned about node.js, ajax, Single Page Applications and how awesome they are. I also have background in Object-Oriented Java Programming.
 
-bold is for languages I'm comfortable and have enough knowledge to program with 
+Currently working as a translator/publisher semi-voluntarily for an amazing team with great people called [Afeefa.de](https://afeefa.de/), but also looking for oppertunities to work on new projects and meet and work with new friendly people.
+
+
+## My Programming Knowledge/Experience:
 
 - C & C++:   
 
 API-usage, getting comfortable with basic programming, Algorithm implementations 
 
-- **Java**  :   
+- Java  :   
 
 WebApp using Spring (SalesPoint Framework+ git, scrum, and OOD Design w/ UML) 
 
-- **Javascript** (ES6):    
+- Javascript (ES6):    
 
 jQuery, Angular(+TypeScript), Node.js, Express, MongoDB + other npm packages
 
-In addition to: 
+- PHP :
 
-- *HTML5* : 
+Object Oriented PHP 
+
+- HTML5 : 
 
 ejs scripts, thymeleaf scripts, jade 
 
-- *CSS3*: 
+- CSS3: 
 
-scss, bootstrap
+scss, bootstrap, materialize
 
-Also familiar with: php, relational databases/sql, hybrid web app dev (Ionic), wordpress
-
-## An Overview on the projects in this repo: 
-
-- ShoppingList 
-
-Angular Project, made as a review exercise for Maximillian Schwarzmueller's Udemy course "Angular 4 - The Complete Guide". 
-
-- YoCamp
-
-Node.js, Express.js, MongoDB Project, made as a review exercise for Colt Steele's Udemy course "The Web Developer Bootcamp".
-
-- burogi
-
-Currently incomplete Angular project as of July2017, planning to hopefullz finish it and connect it to a node.js backend in August2017.
+Also familiar with: relational databases/sql, hybrid web app dev (Ionic), wordpress
