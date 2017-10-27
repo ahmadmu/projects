@@ -13,7 +13,7 @@ export class Recipe {
         this.ingredients = ingredients;
     }
 
-    // alternative method (typescript is awesome)
+    // alternative method
     // constructer( public name: string, public description: string,
     //              public imagePath: string, public ingredients: Ingredient[] )
 }
