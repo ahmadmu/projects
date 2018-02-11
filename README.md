@@ -1,30 +1,18 @@
 ## Welcome to my Github repository, 
-projects here are mainly JavaScript projects. The online version of these and other static websites I made can be found in my showcase:
+The online version of these and other websites I made or have been a part of can be found in my showcase:
 https://ahmadmu.github.io/
 
 A bit about me:
-A Computer Science bachelor student who enjoys making things look great and function properly. Began making static websites, among other technical things, when I was 13 years old, but didn't start learning Javascript until 2014 at the beginning of my bachelor, and intensively getting into JS at the beginning of 2017 when I learned about node.js, ajax, Single Page Applications and how awesome they are. I also have background in Object-Oriented Java Programming.
+A Computer Science bachelor student who enjoys making things look great and function properly. Began making static websites, among other technical and visual things, when I was 13 years old, but didn't start learning Javascript until 2014 at the beginning of my bachelor, and intensively getting into it at the beginning of 2017 when I learned about node.js, ajax, Single Page Applications and how awesome they are. 
 
-Currently working as a translator/publisher semi-voluntarily for an amazing team with great people called [Afeefa.de](https://afeefa.de/), but also looking for opportunities to work on new projects and meet and work with new friendly people.
+Currently working as an internee at T-Systems Multimedia Solutions.
 
 
-## My Programming Knowledge/Experience:
-
-- C & C++:   
-
-API-usage, getting comfortable with basic programming, Algorithm implementations 
-
-- Java  :   
-
-WebApp using Spring (SalesPoint Framework+ git, scrum, and OOD Design w/ UML) 
+## My Knowledge/Experience:
 
 - Javascript (ES6):    
 
-jQuery, Angular(+TypeScript), Node.js, Express, MongoDB + other npm packages
-
-- PHP :
-
-Object Oriented PHP and Wordpress development
+Angular(+TypeScript), Node.js, Express, MongoDB, NPM, AJAX, Microsoft Azure Cloud Services, Firebase, some Vue
 
 - HTML5 : 
 
@@ -32,6 +20,24 @@ ejs scripts, thymeleaf scripts, jade
 
 - CSS3: 
 
-scss, bootstrap, materialize.css
+scss, bootstrap (3.3.7 and 4.0), materialize.css
 
-Also familiar with: relational databases/sql, hybrid web app dev (Ionic)
+- Java  :   
+
+Spring-boot (SalesPoint Framework + git, scrum, and OOD Design w/ UML) 
+
+- PHP :
+
+Wordpress development
+
+- C & C++:   
+
+Basic syntax knowledge, implementation of CG algorithms and hardware API usage  
+
+- SQL
+
+postgresql
+
+- Others:
+
+bundlers (Webpack, gulp), docker, UI design and UI prototyping
